@@ -1,5 +1,9 @@
 [
   {
+    "package": "ifultools",
+    "oncran": true
+  },
+  {
     "package": "robustarima",
     "oncran": true
   },
