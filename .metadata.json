@@ -1,9 +1,5 @@
 [
   {
-    "package": "ifultools",
-    "oncran": true
-  },
-  {
     "package": "robustarima",
     "oncran": true
   },
@@ -18,5 +14,8 @@
   {
     "package": "splusTimeSeries",
     "oncran": true
+  },
+  {
+    "package": "ifultools"
   }
 ]
