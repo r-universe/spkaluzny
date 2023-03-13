@@ -1,21 +1,18 @@
 [
   {
-    "package": "robustarima",
-    "oncran": true
-  },
-  {
     "package": "splus2R",
     "oncran": true
   },
   {
-    "package": "splusTimeDate",
-    "oncran": true
-  },
-  {
-    "package": "splusTimeSeries",
-    "oncran": true
-  },
-  {
     "package": "ifultools"
+  },
+  {
+    "package": "robustarima"
+  },
+  {
+    "package": "splusTimeDate"
+  },
+  {
+    "package": "splusTimeSeries"
   }
 ]
