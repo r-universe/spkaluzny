@@ -1,16 +1,16 @@
 [
   {
-    "package": "splus2R",
-    "oncran": true
-  },
-  {
-    "package": "splusTimeDate"
+    "package": "ifultools"
   },
   {
     "package": "robustarima"
   },
   {
-    "package": "ifultools"
+    "package": "splus2R",
+    "oncran": true
+  },
+  {
+    "package": "splusTimeDate"
   },
   {
     "package": "splusTimeSeries"
