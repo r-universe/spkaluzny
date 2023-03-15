@@ -8,9 +8,9 @@
 	url = https://github.com/spkaluzny/splus2r
 	shallow = true
 	registered = true
-[submodule "ifultools"]
-	path = ifultools
-	url = https://github.com/spkaluzny/ifultools
+[submodule "splusTimeDate"]
+	path = splusTimeDate
+	url = https://github.com/spkaluzny/splustimedate
 	shallow = true
 	registered = true
 [submodule "robustarima"]
@@ -18,9 +18,9 @@
 	url = https://github.com/spkaluzny/robustarima
 	shallow = true
 	registered = true
-[submodule "splusTimeDate"]
-	path = splusTimeDate
-	url = https://github.com/spkaluzny/splustimedate
+[submodule "ifultools"]
+	path = ifultools
+	url = https://github.com/spkaluzny/ifultools
 	shallow = true
 	registered = true
 [submodule "splusTimeSeries"]

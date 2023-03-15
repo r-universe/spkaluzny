@@ -4,13 +4,13 @@
     "oncran": true
   },
   {
-    "package": "ifultools"
+    "package": "splusTimeDate"
   },
   {
     "package": "robustarima"
   },
   {
-    "package": "splusTimeDate"
+    "package": "ifultools"
   },
   {
     "package": "splusTimeSeries"
