@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ifultools"]
-	path = ifultools
-	url = https://github.com/spkaluzny/ifultools
-	shallow = true
-	registered = true
 [submodule "robustarima"]
 	path = robustarima
 	url = https://github.com/spkaluzny/robustarima
