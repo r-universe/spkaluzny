@@ -3,23 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "robustarima"]
-	path = robustarima
-	url = https://github.com/spkaluzny/robustarima
-	shallow = true
-	registered = true
 [submodule "splus2R"]
 	path = splus2R
 	url = https://github.com/spkaluzny/splus2r
-	shallow = true
-	registered = true
-[submodule "splusTimeDate"]
-	path = splusTimeDate
-	url = https://github.com/spkaluzny/splustimedate
-	shallow = true
-	registered = true
-[submodule "splusTimeSeries"]
-	path = splusTimeSeries
-	url = https://github.com/spkaluzny/splustimeseries
 	shallow = true
 	registered = true
