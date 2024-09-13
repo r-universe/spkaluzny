@@ -5,3 +5,6 @@
 [submodule "splus2R"]
 	path = splus2R
 	url = https://github.com/spkaluzny/splus2r
+[submodule "splusTimeDate"]
+	path = splusTimeDate
+	url = https://github.com/spkaluzny/splustimedate
